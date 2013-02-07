@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryPool", "MemoryPool\MemoryPool.vcxproj", "{FB15076F-D083-4686-9E41-CFCD9CEC28A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryPool2", "MemoryPool2\MemoryPool2.vcxproj", "{5A6B7E02-457B-47AD-86F4-903FF20EC351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB15076F-D083-4686-9E41-CFCD9CEC28A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB15076F-D083-4686-9E41-CFCD9CEC28A1}.Debug|Win32.Build.0 = Debug|Win32
+		{FB15076F-D083-4686-9E41-CFCD9CEC28A1}.Release|Win32.ActiveCfg = Release|Win32
+		{FB15076F-D083-4686-9E41-CFCD9CEC28A1}.Release|Win32.Build.0 = Release|Win32
+		{5A6B7E02-457B-47AD-86F4-903FF20EC351}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A6B7E02-457B-47AD-86F4-903FF20EC351}.Debug|Win32.Build.0 = Debug|Win32
+		{5A6B7E02-457B-47AD-86F4-903FF20EC351}.Release|Win32.ActiveCfg = Release|Win32
+		{5A6B7E02-457B-47AD-86F4-903FF20EC351}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
